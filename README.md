@@ -155,21 +155,21 @@ Displays:
 - Segment Filters
 
 ### Sales Overview
-![Sales Overview](screenshots/Dashboard_Page1.png)
+![Sales Overview](Screenshots/Dashboard_Page1.png)
 
 ## Page 2 – Manufacturer-wise Sales Analysis
 
 Provides detailed manufacturer-level sales performance and comparisons.
 
 ### Brand Performance
-![Brand Performance](screenshots/Dashboard_Page2.png)
+![Brand Performance](Screenshots/Dashboard_Page2.png)
 
 ## Page 3 – Month-on-Month Sales Analysis
 
 Analyzes monthly sales trends, growth patterns, and performance variations.
 
 ### MoM Analysis – Brand wise
-![MoM Analysis](screenshots/Dashboard_Page3.png)
+![MoM Analysis](Screenshots/Dashboard_Page3.png)
 
 # 💼 Skills Demonstrated
 
